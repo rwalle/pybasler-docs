@@ -1,0 +1,4 @@
+# `BaslerCamera` Class
+
+.. automodule:: basler.basler_camera
+    :members:

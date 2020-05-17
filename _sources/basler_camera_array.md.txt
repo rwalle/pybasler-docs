@@ -1,0 +1,4 @@
+# `BaslerCameraArray` Class
+
+.. automodule:: basler.basler_camera_array
+    :members:
